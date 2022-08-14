@@ -1,0 +1,52 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+h2{
+    font-family: 'Papyrus';
+}
+
+h3,h4{
+    font-family: 'Courier New';
+}
+
+p{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    background-color: rgb(149, 105, 252);
+    font-family: 'Papyrus';
+    padding: 10px;
+}
+
+.copy_right_footer{
+    font-family: 'Courier New';
+    position: fixed;
+    color:rgb(171, 235, 128);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(91, 96, 173);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(128, 235, 182);
+}
+
+.header_div p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(0, 140, 255);
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Roboto', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
